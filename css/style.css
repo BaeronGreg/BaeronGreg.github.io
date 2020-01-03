@@ -1,6 +1,7 @@
 .d1 {
     border: solid; 
     width: 720px;
+    height: auto;
     background: #fc3; 
     padding: 10px; 
     margin: auto;
