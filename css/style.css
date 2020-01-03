@@ -1,8 +1,8 @@
 .d1 {
-    border: solid; /* Параметры границы */
+    border: solid; 
     width: 720px;
-    background: #fc3; /* Цвет фона */
-    padding: 10px; /* Поля вокруг текста */
+    background: #fc3; 
+    padding: 10px; 
     margin: auto;
    }
 p {
@@ -11,10 +11,10 @@ p {
     margin: 0;
 font-size: 18;}
 
-   .h3 {
+   .h3 
+   {
     line-height: 0px;
-    margin: 12;
-       
+    margin: 12; 
    }
 ul {
     padding-left: 60px; 
