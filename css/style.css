@@ -14,7 +14,7 @@ font-size: 18;}
 h3 {
     line-height: 0px;
     margin: 12;
-       
+    text-justify: auto;   
    }
 ul {
     padding-left: 60px; 
